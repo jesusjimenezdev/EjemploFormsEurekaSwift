@@ -1,0 +1,6 @@
+framework module Pods_EjemploFormsEurekaSwift {
+  umbrella header "Pods-EjemploFormsEurekaSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
